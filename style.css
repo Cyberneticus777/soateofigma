@@ -5,12 +5,14 @@
 }
 
 .nav-bar{
-    background-color: rgba(101,158,205,0.81); color: #00538F;
+    background-color: #FFFFFF;
     font-size: 40px;
     display: flex;
     padding-left: 2%;
     padding-top: 0.5%;
-
+    align-items: center;
+    justify-content: space-between;
+    text-decoration: none;
 }
 
 .conteudo {
@@ -46,4 +48,20 @@
     height: 120px;
     width: 300px;
 }
-    
+#perfil{
+    padding-right: 1%; ;
+    ;
+}
+
+.letras .a{
+    text-decoration: none;
+    align-items: center;
+    margin-right: 1000px;
+
+}
+
+.letras .b{
+    text-decoration: none;
+    margin-right: 190px;
+    align-items: center;
+}
